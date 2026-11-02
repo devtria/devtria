@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Muhammad Satria Nurulloh
 
-<img src="https://komarev.com/ghpvc/?username=devtria&color=blue&style=flat-square" alt="Profile Views" />
-
 ---
 
 ### 💻 About Me
@@ -21,15 +19,8 @@
 ### 💡 Featured Project: Sistem Manajemen Antrian Servis HP
 * **Tech Stack:** PHP, Laravel 11, MySQL
 * **Deskripsi:** Aplikasi manajemen alur kerja dan antrian untuk usaha servis perangkat seluler, dirancang untuk merapikan pencatatan status perbaikan dan transparansi operasional harian.
-* **Tantangan Utama:** Memastikan struktur data dan tabel di MySQL benar-benar selaras dengan dinamika operasional di lapangan (kebutuhan riil klien terkait status servis, teknisi, dan riwayat pelanggan).
+* **Tantangan Utama:** Memastikan struktur data dan tabel di MySQL benar-benar selaras dengan dinamika operasional di lapangan (kebutuhan riil klien terkait status servis, teknisi, riwayat pelanggan, dan data lainnya yang relevan).
 * **Solusi:** Melakukan *deep requirement analysis* dan menerjemahkannya ke dalam relasi database relasional yang normal, fleksibel, serta efisien menggunakan migrasi dan Eloquent ORM Laravel.
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devtria&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ---
 
